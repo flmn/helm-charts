@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  toolbox:
+  - apiVersion: v2
+    appVersion: "20250812"
+    created: "2025-08-12T10:24:00.186239177Z"
+    description: A toolbox with postgresql, redis, etcd client
+    digest: 3bdb67cea39d7e11715f2556d437187dae1d60dc57932a747b6b99cf3f78c570
+    icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXBvY2tldC1rbmlmZS1pY29uIGx1Y2lkZS1wb2NrZXQta25pZmUiPjxwYXRoIGQ9Ik0zIDJ2MWMwIDEgMiAxIDIgMlMzIDYgMyA3czIgMSAyIDItMiAxLTIgMiAyIDEgMiAyIi8+PHBhdGggZD0iTTE4IDZoLjAxIi8+PHBhdGggZD0iTTYgMThoLjAxIi8+PHBhdGggZD0iTTIwLjgzIDguODNhNCA0IDAgMCAwLTUuNjYtNS42NmwtMTIgMTJhNCA0IDAgMSAwIDUuNjYgNS42NloiLz48cGF0aCBkPSJNMTggMTEuNjZWMjJhNCA0IDAgMCAwIDQtNFY2Ii8+PC9zdmc+
+    name: toolbox
+    type: application
+    urls:
+    - https://github.com/flmn/helm-charts/releases/download/toolbox-1.0.0/toolbox-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-08-12T10:24:00.186244447Z"
